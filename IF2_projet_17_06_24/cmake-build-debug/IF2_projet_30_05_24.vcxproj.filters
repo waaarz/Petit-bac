@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\loudj\Documents\utbm\CS\info\c\IF2_projet_17_06_24\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\loudj\Documents\utbm\CS\info\c\IF2_projet_17_06_24\fonctions_projet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\loudj\Documents\utbm\CS\info\c\IF2_projet_17_06_24\prototypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\loudj\Documents\utbm\CS\info\c\IF2_projet_17_06_24\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{334507FA-E1DE-33DE-861E-563A3307FA58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{741E1DF5-7EEC-3371-B423-B5B09EB0178B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

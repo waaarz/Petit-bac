@@ -1,0 +1,10 @@
+^C:\USERS\LOUDJ\DOCUMENTS\UTBM\CS\INFO\C\IF2_PROJET_17_06_24\CMAKE-BUILD-DEBUG\CMAKEFILES\C0C673940D30E1CAD8CF56EE9F960CF4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/loudj/Documents/utbm/CS/info/c/IF2_projet_17_06_24 -BC:/Users/loudj/Documents/utbm/CS/info/c/IF2_projet_17_06_24/cmake-build-debug --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/loudj/Documents/utbm/CS/info/c/IF2_projet_17_06_24/cmake-build-debug/IF2_projet_30_05_24.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,57 @@
+1
+CAT001
+Animaux
+CAT002
+Pays
+CAT003
+Nourriture
+CAT004
+Sports
+CAT005
+Couleurs
+CAT006
+Villes
+CAT007
+Objets
+CAT008
+Métiers
+CAT009
+Films
+2
+CAT101
+Animaux rares
+CAT102
+Pays d'Asie
+CAT103
+Nourriture exotique
+CAT104
+Sports extrêmes
+CAT105
+Couleurs primaires
+CAT106
+Capitales
+CAT107
+Objets anciens
+CAT108
+Métiers artistiques
+CAT109
+Films classiques
+3
+CAT201
+Animaux mythiques
+CAT202
+Pays fictifs
+CAT203
+Nourriture moléculaire
+CAT204
+Sports olympiques
+CAT205
+Couleurs spectrales
+CAT206
+Villes historiques
+CAT207
+Objets technologiques
+CAT208
+Métiers scientifiques
+CAT209
+Films d'auteur

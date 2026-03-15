@@ -1,0 +1,1 @@
+cd "c:\Users\loudj\Documents\utbm\CS\info\c\IF2_projet_17_06_24\cmake-build-debug\Debug" & .\IF2_projet_30_05_24.exe
